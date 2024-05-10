@@ -1,4 +1,4 @@
 /Env/*
-main/.env
+.env
 main/__pycache__
 
