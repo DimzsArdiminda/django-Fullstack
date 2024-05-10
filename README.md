@@ -28,6 +28,7 @@ after that install django package to ur Env with
 
 ```
 pip install django
+pip install python-dotenv
 ```
 
 and make file django with 
