@@ -1,3 +1,4 @@
 /Env/*
-djangoFullstack/.env
+main/.env
+main/__pycache__
 
