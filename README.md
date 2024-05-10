@@ -3,7 +3,10 @@ The First step is u can make Virtual Environment with copy
 
 Clone this Repo to ur local 
 ```
+git clone github.com/DimzsArdiminda/django-Fullstack.git
 ```
+
+then make a Virtual Env
 
 ```
 python -m venv Env
