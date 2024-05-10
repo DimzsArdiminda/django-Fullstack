@@ -1,6 +1,10 @@
 # Instalation Django
 The First step is u can make Virtual Environment with copy
 
+Clone this Repo to ur local 
+```
+```
+
 ```
 python -m venv Env
 ```
