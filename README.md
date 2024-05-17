@@ -1,4 +1,8 @@
 # Instalation Django
+
+!Note :
+u can rename "django-Fullstack" with ur project
+
 The First step is u can make Virtual Environment with copy
 
 Clone this Repo to ur local 
