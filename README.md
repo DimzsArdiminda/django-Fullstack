@@ -65,5 +65,5 @@ in antoher case if u wanna make a fiture but with a diffrent folder, u can run
 ```
 python manage.py startapp blog
 ```
-and configure 
+
 
